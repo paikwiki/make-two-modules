@@ -1,7 +1,7 @@
 {
   "name": "make-two-modules",
   "version": "1.0.0",
-  "description": "MakeTwoModules make two modules which have different style.",
+  "description": "MakeTwoModules is a example code of two modules which have different style.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

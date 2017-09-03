@@ -7,4 +7,3 @@ var umeMsg = ume.getMsg(); // Say yeh~
 
 console.log(ueMsg);
 console.log(umeMsg);
-console.log('It works well');
